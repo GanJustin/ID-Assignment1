@@ -22,7 +22,11 @@ This is a portfolio and it contains a simple navigation bar
 
 ### Media
 - The photos used in this site were obtained from 
+
 https://www.goodhousekeeping.com/home/cleaning/tips/a20048/lightbulb-stuck-jun07/
+
 https://simple.wikipedia.org/wiki/Light_bulb
+
 https://www.theguardian.com/lifeandstyle/shortcuts/2016/jan/12/lightbulb-filament-incandescent-back-efficient-energy-saving
+
 https://expinstitute.com/wp-content/themes/exp-institute/images/remote.jpg
