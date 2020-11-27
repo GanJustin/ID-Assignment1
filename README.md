@@ -30,3 +30,9 @@ https://simple.wikipedia.org/wiki/Light_bulb
 https://www.theguardian.com/lifeandstyle/shortcuts/2016/jan/12/lightbulb-filament-incandescent-back-efficient-energy-saving
 
 https://expinstitute.com/wp-content/themes/exp-institute/images/remote.jpg
+
+https://i0.wp.com/www.concrete-online.co.uk/wp-content/uploads/2017/11/pexels-photo.jpg?resize=560%2C373&ssl=1
+
+https://greenridgesec.moe.edu.sg/qql/slot/u178/aboutus/school_emblem_n_song/cropped-School-Logo.png
+
+https://images.youracclaim.com/size/340x340/images/1bf38ec1-143c-48c8-a331-2a2baabacd42/blob.png
